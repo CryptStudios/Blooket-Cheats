@@ -171,7 +171,7 @@
                             fontWeight: "700",
                             userSelect: "text"
                         },
-                        innerHTML: "Created by OneMinesraft2#5394"
+                        innerHTML: "Blooket Hacks"
                     }),
                     (controlButtons = createElement("div", {
                         id: "controlButtons",
